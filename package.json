@@ -1,6 +1,6 @@
 {
-  "name": "seth5592-cli-alerts",
-  "version": "1.0.0",
+  "name": "seth-alerts",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
